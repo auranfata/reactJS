@@ -1,0 +1,60 @@
+.header {
+    background: rgb(149, 150, 148);
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-bottom: 40px;
+}
+
+.troley {
+    position: relative;
+}
+
+.troley img {
+    width: 35px;
+}
+
+.count {
+    background: #2d3c8d;
+    padding: 6px;
+    border-radius: 50%;
+    min-width: 10px;
+    height: 10px;
+    line-height: 10px;
+    text-align: center;
+    color: white;
+    font-size: 11px;
+    position: absolute;
+    bottom: -8px;
+    left: -13px;
+}
+
+.card {
+    margin: 35px;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    width: 300px;
+    border-radius: 18px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.23);
+    text-align: center;
+}
+
+.img-thumb-prod img {
+    width: 250px;
+    
+}
+
+.logo img{
+    width: 150px;
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.minus {
+    
+}
